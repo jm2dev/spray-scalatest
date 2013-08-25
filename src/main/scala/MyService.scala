@@ -1,4 +1,4 @@
-package com.example
+package com.jm2dev
 
 import akka.actor.Actor
 import spray.routing._

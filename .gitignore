@@ -8,3 +8,5 @@ test-output/
 *.iml
 sbt
 tools/
+.ensime
+.ensime_lucene/
