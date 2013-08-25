@@ -16,8 +16,7 @@ libraryDependencies ++= Seq(
   "io.spray"            %   "spray-testkit" % "1.1-M8",
   "com.typesafe.akka"   %%  "akka-actor"    % "2.1.4",
   "com.typesafe.akka"   %%  "akka-testkit"  % "2.1.4",
-  "org.scalatest"       %%  "scalatest"     % "1.9.1" % "test",
-  "org.specs2"          %%  "specs2"        % "1.14" % "test"
+  "org.scalatest"       %%  "scalatest"     % "1.9.1" % "test"
 )
 
 seq(Revolver.settings: _*)
