@@ -31,4 +31,4 @@ Referencias
 .. _couchdb: http://couchdb.apache.org
 .. _scala: http://scala-lang.org
 .. _sbt: http://scala-sbt.org
-
+.. _rest spray: http://sysgears.com/articles/building-rest-service-with-scala/
