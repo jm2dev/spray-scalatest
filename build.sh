@@ -14,4 +14,4 @@ else
     echo 'sbt installed'
 fi
 
-./sbt
+./sbt test
